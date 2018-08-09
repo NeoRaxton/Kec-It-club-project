@@ -10,7 +10,7 @@ html,body{
   background-image: url("clean-vintage-light-blue-paper-background.jpg");
 }*/
 .navbar a{
-  padding-left: 78%;
+  /*padding-right: 78%;*/
   color: black;
   font-family: 'Yatra One', cursive;
   font-size: 35px;
